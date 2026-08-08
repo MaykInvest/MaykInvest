@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/MaykInvest">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1200&text=Hello!%20I'm%20Maykon%2C%20but%20you%20can%20call%20me%20Mike" alt="Hello! I&#39;m Maykon, but you can call me Mike" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=599900&fontSize=54&height=90&width=826&text=Hello%20there!%20I'm%20Maykon" alt="Hello there! I&#39;m Maykon" />
   </a>
 </p>
 
@@ -38,14 +38,14 @@ New to Data Science, not new to hard work. 10 years in IT taught me how to learn
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=MaykInvest&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=MaykInvest&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=MaykInvest&show_icons=true&theme=tokyonight&title_color=599900&icon_color=599900&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=MaykInvest&layout=compact&theme=tokyonight&title_color=599900&icon_color=599900&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MaykInvest&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MaykInvest&bg_color=00000000&color=599900&line=599900&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
