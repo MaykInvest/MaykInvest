@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/MaykInvest">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=599900&fontSize=54&height=90&width=826&text=Hello%20there!%20I'm%20Maykon" alt="Hello there! I&#39;m Maykon" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=599900&fontSize=54&height=90&width=826&text=Hello%20there!%20I'm%20Maykon" alt="Hello there! I'm Maykon" />
   </a>
 </p>
 
@@ -8,11 +8,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=490&height=44&lines=Turning%20data%20into%20decisions%20%F0%9F%93%8A" alt="Typing headlines" />
 </p>
 
+---
+
 ### 🚀 About Me
 
-New to Data Science, not new to hard work. 10 years in IT taught me how to learn fast — now I'm applying that to Python, SQL, and ML.
+* **Background:** 10 years in IT building a solid foundation in systems and troubleshooting.
+* **Current Focus:** Transitioning into **Data Science & Machine Learning**, leveraging my technical experience to solve analytical problems.
+* **Core Tools:** Python, SQL, and modern data libraries.
 
-⚡ &nbsp;Fun fact: **I once had to drive for three hours because three different people swore a server was malfunctioning. Turns out, it was just... turned off. I pressed the power button and left. 😅**
+> ⚡ **Fun fact:** I once drove for three hours because three different people swore a server was malfunctioning. Turns out, it was just... turned off. I pressed the power button and left. 😅
+
+---
 
 ### 🛠️ Tech Stack
 
@@ -28,12 +34,16 @@ New to Data Science, not new to hard work. 10 years in IT taught me how to learn
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
+---
+
 ### 🔗 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/maykon-oliveira-maykinvest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://maykinvest.github.io/maykon-portfolio/index.html" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
+
+---
 
 ### 📊 GitHub Stats
 
@@ -48,6 +58,8 @@ New to Data Science, not new to hard work. 10 years in IT taught me how to learn
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MaykInvest&bg_color=00000000&color=599900&line=599900&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
+---
+
 ### 💭 Dev Quote
 
 <p align="center">
@@ -55,4 +67,5 @@ New to Data Science, not new to hard work. 10 years in IT taught me how to learn
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/MaykInvest">MaykInvest</a></i></p>
+
+<p align="center"><i>⭐️ From <a href="https://github.com/MaykInvest">MaykInvest 👌</a></i></p>
